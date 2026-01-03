@@ -21,6 +21,8 @@ A **Graphical User Interface (GUI)** CRUD application built with **Python Tkinte
 - Tkinter
 - SQLite3
 
+![screenshot](Screenshot 2026-01-03 215612.png)
+
 ---
 ## ▶️ Installation
 Clone the repository:
@@ -30,4 +32,4 @@ cd python-crud-app-gui
 pip install -r requirements.txt
 python crud_gui.py
 
-![screenshot](Screenshot 2026-01-03 215612.png)
+
