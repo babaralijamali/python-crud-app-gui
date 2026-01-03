@@ -21,7 +21,7 @@ A **Graphical User Interface (GUI)** CRUD application built with **Python Tkinte
 - Tkinter
 - SQLite3
 
-![screenshot](Screenshot 2026-01-03 215612.png)
+![screenshot](https://raw.githubusercontent.com/babaralijamali/python-crud-app-gui/refs/heads/main/Screenshot%202026-01-03%20215612.png)
 
 ---
 ## ▶️ Installation
